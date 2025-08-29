@@ -170,6 +170,6 @@ Se encontrar algum problema ou tiver sugestões:
 
 ---
 
-**Desenvolvido com ❤️ para a comunidade do YouTube**
+**Desenvolvido para a comunidade do YouTube**
 
 *Esta extensão não é afiliada ou endossada pelo YouTube ou Google.*
